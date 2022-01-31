@@ -5,6 +5,5 @@
 - 📫 How to reach me moputne.games@hotmail.com
 
 <!---
-Moe-Syzlack/Moe-Syzlack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+If you want to use it or give advice go all for it.
 --->
